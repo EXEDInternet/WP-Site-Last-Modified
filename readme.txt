@@ -1,4 +1,4 @@
-=== Last Modified ===
+=== Site Last Modified ===
 Contributors: exed internet
 Version: 1.0
 Tags: website info, modified, last, date, time
@@ -9,7 +9,8 @@ License: GPLv2 or later
 
 == Description ==
 Adds the possibility to display the date and/or time the website was last modified,
-both directly in the template, or through a shortcode. The plugin uses the timestamp of the last modified post for this information.
+in template, or through shortcode. 
+The plugin uses the timestamp of the last modified post for this information.
 
 Please note, this plugin does not show the specific date per post, there are other plugins for that feature.
 
@@ -63,7 +64,13 @@ Version 1.0: first release, supplying template function and shortcode
 = 1.0.1 =
 Improved readme.txt, no code changes
 
+= 1.0.2 =
+Improved readme.txt, no code changes
+
 == Upgrade Notice ==
+
+= 1.0.1 =
+No changes required
 
 = 1.0.1 =
 No changes required

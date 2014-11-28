@@ -4,7 +4,7 @@ Version: 1.0
 Tags: website info, modified, last, date, time
 Stable tag: trunk
 Requires at least: 2.5
-Tested up to: 3.1
+Tested up to: 4.0.1
 License: GPLv2 or later
 
 == Description ==

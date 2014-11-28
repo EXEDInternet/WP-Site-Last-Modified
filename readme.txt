@@ -8,8 +8,7 @@ Tested up to: 4.0.1
 License: GPLv2 or later
 
 == Description ==
-Adds the possibility to display the date and/or time the website was last modified,
-in template, or through shortcode. 
+Adds the possibility to display the date and time that the website was last modified, both directly by a function in the template or with a shortcode.
 The plugin uses the timestamp of the last modified post for this information.
 
 Please note, this plugin does not show the specific date per post, there are other plugins for that feature.

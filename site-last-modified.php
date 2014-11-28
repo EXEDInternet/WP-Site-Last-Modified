@@ -2,7 +2,7 @@
 /*
 Plugin Name: Site Last Modified
 Plugin URI: 
-Description: Adds the possibility to display the date and time that the website was last modified, both directly by a function in the template, or through a shortcode.
+Description: Adds the possibility to display the date and time that the website was last modified, both directly by a function in the template or with a shortcode.
 Version: 1.0.3
 Author: EXED internet (MR,BHdH)
 Author URI: http://www.exed.nl/

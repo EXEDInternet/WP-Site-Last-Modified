@@ -66,14 +66,3 @@ Improved readme.txt, no code changes
 
 = 1.0.2 =
 Improved readme.txt, no code changes
-
-== Upgrade Notice ==
-
-= 1.0.1 =
-No changes required
-
-= 1.0.1 =
-No changes required
-
-== Screenshots ==
--

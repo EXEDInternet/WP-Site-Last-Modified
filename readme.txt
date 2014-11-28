@@ -1,8 +1,8 @@
 === Site Last Modified ===
 Contributors: exed internet
-Version: 1.0.3
+Version: 1.0.4
 Tags: website info, modified, last, date, time
-Stable tag: trunk
+Stable tag: 1.0.4
 Requires at least: 2.5
 Tested up to: 4.0.1
 License: GPLv2 or later
@@ -60,5 +60,5 @@ A: `<?php site_last_modified(); ?>`.  You can add a custom date format, e.g. : `
 = 1.0 =
 First release, supplying template function and shortcode to display the date your site was last modified.
 
-= 1.0.3 =
+= 1.0.4 =
 Improved readme

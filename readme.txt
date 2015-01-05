@@ -1,10 +1,10 @@
 === Site Last Modified ===
 Contributors: exed internet
-Version: 1.0.4
+Version: 1.0.5
 Tags: website info, modified, last, date, time
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 Requires at least: 2.5
-Tested up to: 4.0.1
+Tested up to: 4.1.0
 License: GPLv2 or later
 
 == Description ==
@@ -57,8 +57,12 @@ How can I implement this date in my template?
 A: `<?php site_last_modified(); ?>`.  You can add a custom date format, e.g. : `<?php site_last_modified( "Y-m-d H:i:s" );?>`
 
 == Changelog ==
-= 1.0 =
-First release, supplying template function and shortcode to display the date your site was last modified.
+
+= 1.0.5 =
+Added support for WordPress 4.1
 
 = 1.0.4 =
 Improved readme
+
+= 1.0 =
+First release, supplying template function and shortcode to display the date your site was last modified.

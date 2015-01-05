@@ -1,8 +1,8 @@
 === Site Last Modified ===
 Contributors: exed internet
-Version: 1.0.5
+Version: 1.0.6
 Tags: website info, modified, last, date, time
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires at least: 2.5
 Tested up to: 4.1.0
 License: GPLv2 or later
@@ -58,7 +58,7 @@ A: `<?php site_last_modified(); ?>`.  You can add a custom date format, e.g. : `
 
 == Changelog ==
 
-= 1.0.5 =
+= 1.0.6 =
 Added support for WordPress 4.1
 
 = 1.0.4 =
